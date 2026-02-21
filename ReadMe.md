@@ -1,4 +1,4 @@
-# 🚀 Local Insight AI
+#  Schematica
 
 > **Transforming raw local business data into high-impact, actionable intelligence.**
 
